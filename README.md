@@ -19,3 +19,6 @@ To build a strong foundation in cybersecurity and grow into an entry-level role 
 Currently training through:
 - Cisco Networking Academy (Netacad)
 - Mujer Digital Program — Junior Achievement Costa Rica
+
+## 🤝 Connect with me
+www.linkedin.com/in/marielblandon
